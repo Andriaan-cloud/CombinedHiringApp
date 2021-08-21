@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 asgiref==3.3.1
 beautifulsoup4==4.9.3
 Django==3.0
@@ -6,4 +7,9 @@ django-bootstrap4==2.3.1
 django-crispy-forms==1.11.0
 pytz==2021.1
 soupsieve==2.2
+=======
+asgiref==3.4.1
+Django==3.1.6
+pytz==2021.1
+>>>>>>> 839295ed895f72c161c60d731086a0983a5f286a
 sqlparse==0.4.1
