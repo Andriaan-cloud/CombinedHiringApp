@@ -1,0 +1,28 @@
+{% extends "blog/base.html" %}
+{% block content %}
+   <h1>Job Requirement Survey</h1>
+    <form action="Contact.html" method="post">
+  				<div class="form-group">
+  					<label>Applicants above the age of 35 will not be considered.</label><br><br>
+
+                    <label for="quantity">Enter your age below 35:</label>
+                    <input type="number" id="quantity" name="quantity" min="21" max="35" required="required" oninvalid="this.setCustomValidity('Unfortunately age do not qualify');"/>
+
+
+  				</div>
+  				<div class="form-group">
+  					<label>Minimum qualifications:Bachelors Degree.</label><br><br>
+  					<label for="text">Yes/No?:</label>
+                    <input type="text" id="text" name="text" minlength="3" required="required" oninvalid="this.setCustomValidity('Unfortunately you do not meet the minimum qualifications requirement');"/>
+  				</div>
+
+
+                <div>
+                   <input type="submit" value="Submit" required="required" oninvalid="this.setCustomValidity('Unfortunately you do not qualify');"/>
+                </div>
+
+
+  			</form>
+
+{% endblock content %}
+
