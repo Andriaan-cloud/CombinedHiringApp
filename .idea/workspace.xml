@@ -4,16 +4,31 @@
     <list default="true" id="ad97ea83-b431-4ba2-89c4-e5bd283d37e4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hiringApp/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/hiringApp/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hiringApp/hiringApp/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/hiringApp/hiringApp/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hiringApp/hiringApp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/hiringApp/hiringApp/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hiringApp/recruit/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/hiringApp/recruit/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hiringApp/recruit/comparisons.py" beforeDir="false" afterPath="$PROJECT_DIR$/hiringApp/recruit/comparisons.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hiringApp/recruit/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/hiringApp/recruit/forms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hiringApp/recruit/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/hiringApp/recruit/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/about.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/j_base.html" beforeDir="false" afterPath="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/j_base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/j_home.html" beforeDir="false" afterPath="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/j_home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/logout.html" beforeDir="false" afterPath="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/logout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/p_home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/response.html" beforeDir="false" afterPath="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/response.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/success.html" beforeDir="false" afterPath="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/success.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hiringApp/recruit/text files/documents/CCA-175-practice-tests-resource-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hiringApp/recruit/text files/documents/Datasets_1.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hiringApp/recruit/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/hiringApp/recruit/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hiringApp/recruit/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/hiringApp/recruit/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,11 +38,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hiringApp/recruit/templates/recruit/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hiringApp/recruit/static/recruit/d.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="371">
+              <caret line="117" column="19" selection-start-line="117" selection-start-column="19" selection-end-line="117" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hiringApp/recruit/comparisons.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="317">
+              <caret line="45" column="90" selection-start-line="45" selection-start-column="81" selection-end-line="45" selection-end-column="90" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hiringApp/recruit/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="106" column="121" lean-forward="true" selection-start-line="106" selection-start-column="121" selection-end-line="106" selection-end-column="121" />
+            <state relative-caret-position="648">
+              <caret line="82" column="8" selection-start-line="82" selection-start-column="8" selection-end-line="82" selection-end-column="8" />
               <folding>
                 <element signature="e#0#45#0" expanded="true" />
               </folding>
@@ -36,15 +81,26 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hiringApp/recruit/comparisons.py">
+        <entry file="file://$PROJECT_DIR$/hiringApp/recruit/templates/recruit/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="45" column="110" selection-start-line="45" selection-start-column="110" selection-end-line="45" selection-end-column="110" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="285">
+              <caret line="28" column="37" lean-forward="true" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="37" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hiringApp/recruit/responses/Sample CV text.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hiringApp/recruit/responses/response.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -60,6 +116,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>Fail</find>
+      <find>post</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -76,38 +133,43 @@
         <option value="$PROJECT_DIR$/hiringApp/recruit/static/recruit/comparisons.py" />
         <option value="$PROJECT_DIR$/hiringApp/recruit/static/recruit/Sample CV text.txt" />
         <option value="$PROJECT_DIR$/hiringApp/recruit/text files/recruit/cv page.html" />
-        <option value="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/home.html" />
         <option value="$PROJECT_DIR$/hiringApp/recruit/text files/recruit/Sample_CV_text.txt" />
         <option value="$PROJECT_DIR$/hiringApp/recruit/text files/recruit/comparisons.py" />
-        <option value="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/success.html" />
-        <option value="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/response.html" />
         <option value="$PROJECT_DIR$/hiringApp/recruit/text files/recruit/Sample CV text.txt" />
         <option value="$PROJECT_DIR$/hiringApp/recruit/text files/recruit/Python junior developer requirements.txt" />
         <option value="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/index.html" />
-        <option value="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/base.html" />
-        <option value="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/profile.html" />
         <option value="$PROJECT_DIR$/hiringApp/hiringApp/settings.py" />
-        <option value="$PROJECT_DIR$/hiringApp/recruit/forms.py" />
+        <option value="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/result.html" />
+        <option value="$PROJECT_DIR$/hiringApp/recruit/responses/response.txt" />
         <option value="$PROJECT_DIR$/hiringApp/hiringApp/urls.py" />
         <option value="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/about.html" />
-        <option value="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/login.html" />
-        <option value="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/logout.html" />
-        <option value="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/j_home.html" />
-        <option value="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/register.html" />
-        <option value="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/list.html" />
-        <option value="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/j_base.html" />
-        <option value="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/result.html" />
+        <option value="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/p_home.html" />
         <option value="$PROJECT_DIR$/hiringApp/recruit/comparisons.py" />
         <option value="$PROJECT_DIR$/hiringApp/recruit/urls.py" />
+        <option value="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/j_base.html" />
+        <option value="$PROJECT_DIR$/hiringApp/recruit/forms.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/response.html" />
+        <option value="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/success.html" />
+        <option value="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/list.html" />
+        <option value="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/register.html" />
+        <option value="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/logout.html" />
+        <option value="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/j_home.html" />
+        <option value="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/profile.html" />
+        <option value="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/login.html" />
+        <option value="$PROJECT_DIR$/hiringApp/recruit/static/recruit/CV.css" />
+        <option value="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/home.html" />
         <option value="$PROJECT_DIR$/hiringApp/recruit/models.py" />
         <option value="$PROJECT_DIR$/hiringApp/recruit/admin.py" />
-        <option value="$PROJECT_DIR$/hiringApp/recruit/responses/response.txt" />
+        <option value="$PROJECT_DIR$/hiringApp/recruit/static/recruit/cv.css" />
+        <option value="$PROJECT_DIR$/hiringApp/recruit/templates/recruit/base.html" />
+        <option value="$PROJECT_DIR$/hiringApp/recruit/static/recruit/d.css" />
         <option value="$PROJECT_DIR$/hiringApp/recruit/views.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
+    <option name="x" value="-12" />
     <option name="width" value="858" />
     <option name="height" value="1032" />
   </component>
@@ -117,6 +179,57 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="newApp" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="newApp" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="hiringApp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="newApp" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="hiringApp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="recruit" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="newApp" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="hiringApp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="recruit" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="responses" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="newApp" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="hiringApp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="recruit" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="templates" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="newApp" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="hiringApp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="recruit" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="templates" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="recruit" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="newApp" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="hiringApp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="recruit" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="text files" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -141,49 +254,6 @@
               <item name="hiringApp" type="462c0819:PsiDirectoryNode" />
               <item name="recruit" type="462c0819:PsiDirectoryNode" />
               <item name="text files" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="newApp" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="newApp" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="hiringApp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="newApp" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="hiringApp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="hiringApp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="newApp" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="hiringApp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="recruit" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="newApp" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="hiringApp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="recruit" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="text files" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="newApp" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="hiringApp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="recruit" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="text files" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="recruit" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -376,11 +446,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49876544" visible="true" weight="0.27901432" />
       <window_info id="Structure" order="2" sideWeight="0.5012346" side_tool="true" weight="0.24960254" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.3034826" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.20232172" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.3268206" />
       <window_info anchor="bottom" id="Python Console" order="2" weight="0.3283582" />
       <window_info anchor="bottom" id="Message" order="3" />
@@ -395,37 +466,15 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49876544" visible="true" weight="0.24244833" />
-      <window_info id="Structure" order="2" sideWeight="0.5012346" side_tool="true" weight="0.24960254" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.19568823" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.3283582" />
-      <window_info anchor="bottom" id="Python Console" order="2" weight="0.3283582" />
-      <window_info anchor="bottom" id="Message" order="3" />
-      <window_info anchor="bottom" id="Find" order="4" weight="0.3283582" />
-      <window_info anchor="bottom" id="Version Control" order="5" weight="0.3283582" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.3283582" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" weight="0.3283582" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Final version 1.1" />
     <option name="LAST_COMMIT_MESSAGE" value="Final version 1.1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/comparison.py" />
-    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/write file.py" />
-    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/static/recruit/Sample_CV_text.txt" />
-    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/write files.py" />
-    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/static/recruit/Python_junior_developer_requirements.txt" />
-    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/static/recruit/Sample CV text.txt" />
     <entry file="file://$PROJECT_DIR$/hiringApp/recruit/static/recruit/comparisons.py" />
     <entry file="file://$PROJECT_DIR$/hiringApp/recruit/text files/recruit/Python_junior_developer_requirements.txt" />
     <entry file="file://$PROJECT_DIR$/hiringApp/recruit/text files/recruit/Sample_CV_text.txt" />
@@ -444,25 +493,12 @@
     <entry file="file://$PROJECT_DIR$/hiringApp/hiringApp/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/text files/recruit/Python junior developer requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/tests.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/hiringApp/recruit/text files/recruit/cv page.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-1773847135/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -478,57 +514,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/templates/recruit/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/templates/recruit/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/templates/recruit/p_home.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/templates/recruit/profile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="88" column="9" selection-start-line="88" selection-start-column="9" selection-end-line="88" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hiringApp/recruit/apps.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/templates/recruit/about.html">
+    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/static/recruit/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
+        <state relative-caret-position="255">
+          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/templates/recruit/register.html">
+    <entry file="file://$PROJECT_DIR$/hiringApp/response.txt" />
+    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/text files/recruit/Sample CV text.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        <state relative-caret-position="68">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/hiringApp/hiringApp/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="24" column="103" selection-start-line="24" selection-start-column="103" selection-end-line="24" selection-end-column="103" />
+        <state relative-caret-position="197">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
           <folding>
             <element signature="e#633#665#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/templates/recruit/result.html" />
+    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/templates/recruit/about.html" />
+    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/templates/recruit/p_home.html" />
+    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/templates/recruit/index.html" />
     <entry file="file://$PROJECT_DIR$/hiringApp/hiringApp/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="291">
@@ -539,107 +559,93 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/static/recruit/main.css">
+    <entry file="file://$PROJECT_DIR$/requirements.txt" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/phrase.rnc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/templates/recruit/j_home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/templates/recruit/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/templates/recruit/logout.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/templates/recruit/list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="54" lean-forward="true" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/templates/recruit/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/templates/recruit/success.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/templates/recruit/j_base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="64" column="103" selection-start-line="64" selection-start-column="103" selection-end-line="64" selection-end-column="103" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/templates/recruit/result.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hiringApp/response.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="149">
+          <caret line="63" column="14" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hiringApp/recruit/templates/recruit/response.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/templates/recruit/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/templates/recruit/j_base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/templates/recruit/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/templates/recruit/logout.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/templates/recruit/success.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hiringApp/recruit/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="238">
+          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/models.py">
+    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/static/recruit/mindworx-logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/static/recruit/reworked_mw-01.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/templates/recruit/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
+        <state>
+          <caret column="40" lean-forward="true" selection-start-column="40" selection-end-column="40" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/templates/recruit/profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="76" column="22" selection-start-line="76" selection-start-column="22" selection-end-line="76" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/static/recruit/bg-edit-2-1024x468-3.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/hiringApp/recruit/forms.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+        <state relative-caret-position="374">
+          <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
           <folding>
             <element signature="e#0#53#0" expanded="true" />
           </folding>
@@ -656,33 +662,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/text files/recruit/Sample CV text.txt">
+    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="314">
+          <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/responses/Sample CV text.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/static/recruit/cv.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/templates/recruit/j_home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/templates/recruit/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hiringApp/recruit/responses/response.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/responses/Sample CV text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/text files/recruit/Python junior developer requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/static/recruit/d.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="117" column="19" selection-start-line="117" selection-start-column="19" selection-end-line="117" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/hiringApp/recruit/comparisons.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="45" column="110" selection-start-line="45" selection-start-column="110" selection-end-line="45" selection-end-column="110" />
+        <state relative-caret-position="317">
+          <caret line="45" column="90" selection-start-line="45" selection-start-column="81" selection-end-line="45" selection-end-column="90" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/hiringApp/recruit/templates/recruit/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="28" column="37" lean-forward="true" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/hiringApp/recruit/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="106" column="121" lean-forward="true" selection-start-line="106" selection-start-column="121" selection-end-line="106" selection-end-column="121" />
+        <state relative-caret-position="648">
+          <caret line="82" column="8" selection-start-line="82" selection-start-column="8" selection-end-line="82" selection-end-column="8" />
           <folding>
             <element signature="e#0#45#0" expanded="true" />
           </folding>

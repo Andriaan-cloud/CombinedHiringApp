@@ -4,4 +4,5 @@ from .models import *
 admin.site.register(Response)
 admin.site.register(Document)
 admin.site.register(Profile)
-admin.site.register(Post)
+
+

@@ -1,0 +1,171 @@
+/*---------------------------RESET---------------------------*/
+*{
+	margin:0;
+	padding:0;
+    font-family: "Open Sans", "Arial", "Helvetica", "sans-serif";
+	font-size: 14px;
+	/*font-weight: bold;*/
+}
+/*---------------------------BODY---------------------------*/
+body {
+
+    /*background-image: url("/static/recruit/down-01.jpg");*/
+    background-color: #ffffff;
+    background-repeat: no-repeat;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.contain {
+
+width: 900px;
+margin: 0 auto;
+
+}
+
+.container {
+
+width: 900px;
+margin: 0 auto;
+
+}
+
+
+h1 {
+
+color: #ffffff;
+text-align: center;
+
+}
+
+.border-top_pt-3 {
+
+color: #56575b;
+text-align: center;
+margin: 0 auto;
+background-color: #ffffff;
+opacity: 0.9;
+
+}
+
+h1.files {
+
+color: #56575b;
+text-align: center;
+
+}
+
+h1.success {
+
+background-color: #ffffff;
+color: #56575b;
+text-align: center;
+opacity: 0.9;
+padding: 5px;
+
+}
+
+h1.mt-2_text-center {
+
+color: #56575b;
+text-align: center;
+
+}
+
+.login{
+
+background-color: #56575b;
+width: 600px;
+margin: 0 auto;
+padding: 5px;
+border-radius: 10px;
+
+}
+
+h3 {
+
+color: #56575b;
+
+}
+
+p {
+
+color: #56575b;
+
+}
+
+p.or {
+
+color: #ffffff;
+
+}
+
+.col-md-9 {
+
+    margin: 0 auto;
+    margin-left: 180px;
+    color: #f28f3b;
+
+}
+
+.imagesidebar {
+
+    width: 200px;
+    height: auto;
+    padding: 20px;
+    margin-left: 40px;
+
+}
+
+.btn {
+
+    background-color: #f28f3b;
+    border-style: none;
+
+}
+
+.form-group{
+
+background-color: #ffffff;
+opacity: 0.9;
+border-radius: 10px;
+padding: 5px;
+
+}
+
+.show {
+
+background-color: #56575b;
+border-radius: 10px;
+padding: 5px;
+color: #f28f3b;
+
+}
+
+.row {
+
+opacity: 0.9;
+
+}
+
+.content-section {
+
+width: 1200px;
+margin: 0 auto;
+
+}
+
+#formsa {
+
+width: 1200px;
+margin: 0 auto;
+
+}
+
+.col-8 {
+
+background-color: #ffffff;
+
+}

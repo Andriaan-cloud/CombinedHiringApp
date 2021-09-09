@@ -1,40 +1,42 @@
-{% extends 'recruit/base.html' %}
+<!--{% extends 'recruit/base.html' %}-->
 
 {% block content %}
 <div class="col-md-9">
+
   	<div class="box">
   		<div class="box-header">
-  			<center>
+			<center>
   				<h2>Application</h2>
   				<p class="text-muted">
   					Please enter fields below as they appear on CV
   				</p>
-  			</center>
-  			<form action="/home/" method="post">
+  			<form id="myform" action="/home/" method="post">
                 {% csrf_token %}
-  				<div class="form-group">
-  					<label>Responsibilities</label>
-					<br>
-  					<textarea name="R" class="form-control" placeholder="Type message"></textarea>
+				<label>Responsibilities</label>
+  				<div class="form-groups">
+
+  					<textarea name="R" class="form-control" placeholder="Enter responsibilities"></textarea>
   				</div>
 				<br>
-                <div class="form-group">
-  					<label>Technical skills</label>
-					<br>
-  					<textarea name="T" class="form-control" placeholder="Type message"></textarea>
+				<label>Technical skills</label>
+                <div class="form-groups">
+
+  					<textarea name="T" class="form-control" placeholder="Enter technical skills"></textarea>
   				</div>
 				<br>
-                <div class="form-group">
-  					<label>Soft skills</label>
-					<br>
-  					<textarea name="S" class="form-control" placeholder="Type message"></textarea>
+				<label>Soft skills</label>
+                <div class="form-groups">
+  					<textarea name="S" class="form-control" placeholder="Enter soft skills"></textarea>
   				</div>
 				<br>
   				<div class="text-center">
 						<button type="submit" name="submit" class="btn btn-success">Submit</button>
   				</div>
+				<br>
   			</form>
+			</center>
   		</div>
   	</div>
+
   </div>
 {% endblock %}

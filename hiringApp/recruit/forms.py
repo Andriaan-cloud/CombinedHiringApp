@@ -14,7 +14,10 @@ class UserRegisterForm(UserCreationForm):
 
 
 class DocumentForm(forms.Form):
-    docfile = forms.FileField(label='Select a file')
+    CV = forms.FileField(label='Select your CV')
+    ID = forms.FileField(label='Select your ID copy')
+    Transcript = forms.FileField(label='Select your transcript')
+    Video = forms.FileField(label='Select your preferred video')
 
 
 class ProfileForm(forms.ModelForm):
@@ -30,7 +33,7 @@ class ProfileForm(forms.ModelForm):
             'industry': 'Industry',
             'job_title': 'Job Title',
             'bio': 'Biography',
-            'date_of_birth ':'Date of birth',
+            'date_of_birth ': 'Date of birth',
             'social': 'Where did you hear about us ?'
 
         }

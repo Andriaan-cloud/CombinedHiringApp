@@ -43,13 +43,20 @@ def index(request):
     if request.method == 'POST':
         form = DocumentForm(request.POST, request.FILES)
         if form.is_valid():
-            newdoc = Document(docfile=request.FILES['docfile'])
-            newdoc.save()
+            cv_ = Document(docfile=request.FILES['CV'])
+            cv_.save()
+            id_ = Document(docfile=request.FILES['ID'])
+            id_.save()
+            trans = Document(docfile=request.FILES['Transcript'])
+            trans.save()
+            vid = Document(docfile=request.FILES['Video'])
+            vid.save()
 
             # Redirect to the document list after POST
             return redirect('home')
         else:
             message = 'The form is not valid. Fix the following error:'
+        shutil.make_archive('user_archive', 'zip', 'C:/Users/Lenovo-User/PycharmProjects/newApp/hiringApp/recruit/text files/documents')
     else:
         form = DocumentForm()  # An empty, unbound form
 
@@ -101,8 +108,8 @@ def success(request):
         target = r'C:\Users\Lenovo-User\PycharmProjects\newApp\hiringApp\recruit\responses\Sample CV text.txt'
         shutil.copyfile(original, target)
         my_zip = zipfile.ZipFile('report.zip', 'w')
-        my_zip.write('/Sample CV text.txt')
-        my_zip.write('/response.txt')
+        my_zip.write('C:/Users/Lenovo-User/PycharmProjects/newApp/hiringApp/recruit/responses/Sample CV text.txt')
+        my_zip.write('C:/Users/Lenovo-User/PycharmProjects/newApp/hiringApp/recruit/responses/response.txt')
         my_zip.close()
         ssw = open('C:/Users/Lenovo-User/PycharmProjects/newApp/hiringApp/recruit/text files/recruit/Sample CV text.txt', 'w+')
         liner = 'Responsibilities:' + '\n' + '\n' 'Technical skills:' + '\n' + '\n' 'Soft skills:'
@@ -117,7 +124,7 @@ def profile(request):
         if form.is_valid():
             form.save()
             print('Data Saved')
-            return redirect('blog-job_requirement_survey')
+            return redirect('login')
 
     user_form = ProfileForm()
     return render(request, 'profile.html', {'form': user_form})

@@ -1,7 +1,8 @@
-{% extends "recruit/j_base.html" %}
+<!--{% extends "recruit/base.html" %}-->
 {% block content %}
-   <h1>Job Requirement Survey</h1>
-    <form action="index/" method="post">
+   <h1 class="login">Job Requirement Survey</h1>
+    <br>
+    <form id="formsa" action="/index/" method="post">
         {% csrf_token %}
   				<div class="form-group">
   					<label>Applicants above the age of 35 will not be considered.</label><br><br>

@@ -47,3 +47,4 @@ sys.stdout = open("C:/Users/Lenovo-User/PycharmProjects/newApp/hiringApp/recruit
 print('Percentage of similarity: ', percentage_of_similarity*2, '%', sep="")
 print(func())
 sys.stdout.close()
+
